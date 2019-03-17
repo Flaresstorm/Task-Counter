@@ -1,0 +1,28 @@
+{
+  "todos": [
+    {
+      "title": "Estudiar React",
+      "responsible": "Victor",
+      "description": "Estudiar 4 horas",
+      "priority": "Alta"
+    },
+    {
+      "title": "Tocar Guitarra",
+      "responsible": "Victor",
+      "description": "Practicar 1 hora",
+      "priority": "Baja"
+    },
+    {
+      "title": "Hacer Tesis",
+      "responsible": "Victor",
+      "description": "Terminar Prelim",
+      "priority": "Alta"
+    },
+    {
+      "title": "Ir a Urbe",
+      "responsible": "Victor",
+      "description": "Ir a Clases",
+      "priority": "Media"
+    }
+  ]
+}
